@@ -24,18 +24,18 @@ a {
 }
 
 a:hover,
-a:focus  {
+a:focus {
   color: #acc300;
 }
 
-.icon{
+.icon {
   position: relative;
   width: 8em;
   height: 8em;
 }
 
 .icon svg {
-  left:0;
+  left: 0;
   height: 100%;
   position: absolute;
   top: 0;
